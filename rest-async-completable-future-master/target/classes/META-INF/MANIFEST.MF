@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: RxMicroCloudGateway
+Implementation-Version: 1.0.0
+Built-By: AB51201
+Implementation-Vendor-Id: com.ctl
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/RxMicroCloudGateway
+Created-By: Maven Integration for Eclipse
+

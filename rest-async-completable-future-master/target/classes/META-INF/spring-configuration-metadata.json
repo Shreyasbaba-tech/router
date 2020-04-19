@@ -1,0 +1,48 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.nickebbitt.GatewayRouteProperties",
+      "name": "rxmicro.gateway",
+      "type": "com.nickebbitt.GatewayRouteProperties"
+    },
+    {
+      "sourceType": "com.nickebbitt.GatewayRouteProperties",
+      "name": "rxmicro.gateway.http-connection-pool",
+      "sourceMethod": "public com.nickebbitt.GatewayRouteProperties.HttpConnectionPool getHttpConnectionPool() ",
+      "type": "com.nickebbitt.GatewayRouteProperties$HttpConnectionPool"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.nickebbitt.GatewayRouteProperties",
+      "name": "rxmicro.gateway.connection-timeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.nickebbitt.GatewayRouteProperties",
+      "name": "rxmicro.gateway.headers",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.nickebbitt.GatewayRouteProperties$HttpConnectionPool",
+      "name": "rxmicro.gateway.http-connection-pool.default-max-per-route",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.nickebbitt.GatewayRouteProperties$HttpConnectionPool",
+      "name": "rxmicro.gateway.http-connection-pool.max-total",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.nickebbitt.GatewayRouteProperties",
+      "name": "rxmicro.gateway.routes",
+      "type": "java.util.Map<java.lang.String,com.nickebbitt.GatewayRouteProperties.Route>"
+    },
+    {
+      "sourceType": "com.nickebbitt.GatewayRouteProperties",
+      "name": "rxmicro.gateway.uri",
+      "type": "java.lang.String"
+    }
+  ]
+}
